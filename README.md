@@ -65,4 +65,4 @@
 
 
 ----
-**Think you have found a great resource add it below here. please add it to your yourname.md and create a pull request
+**Think you have found a great resource add it below here. please add it to your yourname.md and create a pull request**
