@@ -53,7 +53,9 @@
  
  
 ### Other resources
-[harvard online courses] (https://online-learning.harvard.edu/subject/computer-science)
+
+[harvard online courses]  (https://online-learning.harvard.edu/subject/computer-science)
+
 [intro to redux with the creator] (https://egghead.io/courses/getting-started-with-redux)
 
 
