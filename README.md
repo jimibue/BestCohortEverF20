@@ -47,7 +47,7 @@
  * react native
  * testing 
  * typescript (typed js)
- * programing paradigms/ patterns (ie functinal programing, object oriented programing, etc)
+ * programing paradigms/ patterns (ie functional programing, object oriented programing, etc)
  * rails/ruby courses 
  * docker / kuberantes / devops / cicd
  * data structures and algorythms
