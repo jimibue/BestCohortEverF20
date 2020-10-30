@@ -32,4 +32,22 @@
 
 ---
 
+# UDEMY COURSES
+- sites like udemy and pluralsight offer great pre-recorded course these are a couple instructors I like
+
+[Maximilian Schwarzmüller](https://www.udemy.com/courses/search/?q=Maximilian%20Schwarzm%C3%BCller&src=sac&kw=max)
+[Stephen Grider](https://www.udemy.com/courses/search/?q=stephen%20grider&src=sac&kw=stephen)
+
+### courses to look into
+ * react native
+ * testing 
+ * typescript (typed js)
+ * rails/ruby courses (typed js)
+ * docker kuberantes (typed js)
+ * data structures and algorythms
+ * css/figma/ui focused courses
+ * sql courses
+
+
+----
 **Think you have found a great resource add it below here. please follow above syntax with brief description and link**
