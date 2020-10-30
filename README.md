@@ -39,6 +39,8 @@
 
 [Stephen Grider](https://www.udemy.com/courses/search/?q=stephen%20grider&src=sac&kw=stephen)
 
+[Dan Abramov](https://egghead.io/instructors/dan-abramov)
+
 ### courses to look into
  * react native
  * testing 
@@ -48,6 +50,11 @@
  * data structures and algorythms
  * css/figma/ui focused courses
  * sql courses
+ 
+ 
+### Other resources
+[harvard online courses] (https://online-learning.harvard.edu/subject/computer-science)
+[intro to redux with the creator] (https://egghead.io/courses/getting-started-with-redux)
 
 
 ----
