@@ -43,8 +43,8 @@
  * react native
  * testing 
  * typescript (typed js)
- * rails/ruby courses (typed js)
- * docker kuberantes (typed js)
+ * rails/ruby courses 
+ * docker / kuberantes / devops / cicd
  * data structures and algorythms
  * css/figma/ui focused courses
  * sql courses
