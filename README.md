@@ -32,7 +32,7 @@
 
 ---
 
-# UDEMY COURSES
+## Udemy / Pluralsight / egghead / etc... 
 - sites like udemy and pluralsight offer great pre-recorded course these are a couple instructors I like
 
 [Maximilian Schwarzmüller](https://www.udemy.com/courses/search/?q=Maximilian%20Schwarzm%C3%BCller&src=sac&kw=max)
