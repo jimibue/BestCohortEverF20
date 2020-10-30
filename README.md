@@ -41,6 +41,8 @@
 
 [Dan Abramov](https://egghead.io/instructors/dan-abramov)
 
+[DHH (rails creator)](https://dhh.dk/)
+
 ### courses to look into
  * react native
  * testing 
