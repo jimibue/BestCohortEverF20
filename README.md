@@ -50,6 +50,8 @@
  * data structures and algorythms
  * css/figma/ui focused courses
  * sql courses
+ * aws / cloud computing
+ * scrum / kanban / project mangement / github
  
  
 ### Other resources
