@@ -44,9 +44,9 @@
 [DHH (rails creator)](https://dhh.dk/)
 
 ### courses to look into
- * react native
+ * react native 
  * testing 
- * typescript (typed js)
+ * typescript (typed js or any other typed language)
  * programing paradigms/ patterns (ie functional programing, object oriented programing, etc)
  * rails/ruby courses 
  * docker / kuberantes / devops / cicd
